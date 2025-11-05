@@ -9,6 +9,7 @@ dependencies = [
     "joblib>=1.4.2",
     "matplotlib>=3.10.1",
     "mplfinance>=0.12.10b0",
+    "numba>=0.61.2",
     "pandas>=2.2.3",
     "plotly>=6.0.1",
     "pyarrow>=19.0.1",

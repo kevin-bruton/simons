@@ -6,7 +6,7 @@ from fast_events.framework import Timeframe
 from tqdm import tqdm
 
 class StrategyDataConfig:
-  filename='ES_2025.03.28'
+  filename='ES_60_2025.03.28'
   data1=Timeframe.H1
   data2=Timeframe.D1
   min_bars=21
